@@ -6,6 +6,7 @@
 
 
  1.ติดตั้ง [gcc](https://gcc.gnu.org/)
+ 
  2. ดาวน์โหลดไฟล์
  ```besh
 $ git clone https://github.com/Wirat001/c-language-use-scanf
