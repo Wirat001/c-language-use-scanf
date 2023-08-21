@@ -68,7 +68,8 @@ int main(){
 
 
 ```
-ตัวอย่าง
+#ตัวอย่าง
+
 input
 ```
 Enter your Student ID: 65202040063
