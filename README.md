@@ -16,7 +16,8 @@ $ gcc main.c
 
 ![image](https://github.com/Wirat001/c-language-use-scanf/blob/main/image/previwe3.png)
   
-
+### Flowchart
+ soon...
 
 code
 ```c
