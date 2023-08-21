@@ -6,20 +6,23 @@
 
 
  1.ติดตั้ง [gcc](https://gcc.gnu.org/)
-
-2. Compiler เป็น exe
+ 2. ดาวน์โหลดไฟล์
+ ```besh
+$ git clone https://github.com/Wirat001/c-language-use-scanf
+```
+3. Compiler เป็น exe
 ```besh
 $ gcc main.c
 ```
 
-3. ทดสอบโดยการรันไฟล์ a.exe
+4. ทดสอบโดยการรันไฟล์ a.exe
 
 ![image](https://github.com/Wirat001/c-language-use-scanf/blob/main/image/previwe3.png)
   
-### Flowchart
+# Flowchart
  soon...
 
-code
+# code
 ```c
 #include <stdio.h> //ดึงโมดุล stdio.h
 #include <stdlib.h> //ดึงโมดุล stdlib.h
@@ -79,7 +82,7 @@ int main(){
 
 
 ```
-#ตัวอย่าง
+# ตัวอย่าง
 
 input
 ```
@@ -101,7 +104,7 @@ Birthday : 21/06/2006
 Nationalily : Thai
 Telephone : 088888888
 ```
-รูปภาพ
+# รูปภาพ
 ![image](https://github.com/Wirat001/c-language-use-scanf/blob/main/image/preview1.png)
 
 
